@@ -1,2 +1,2 @@
 # KnightFury
-A Prototype version of an RPG game made in Unity .
+A Prototype version of a 3D RPG game made in Unity .
